@@ -8,7 +8,7 @@ Modern Full Stack ECommerce Application with Stripe & Sanity
 
 - Advanced State Management of the entire application using React Context API
 - Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
+    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), using Next.js as a backend endpoint.
 - integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
 
 ![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
